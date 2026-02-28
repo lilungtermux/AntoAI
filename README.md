@@ -1,6 +1,6 @@
 # AntoAI
 Ai chat 
-(Banner.jpg)
+![ANTO AI](banner.png)
 Cara install?
 pastikan klean punya aplikasi termux, kalau udah punya lanjut
 
