@@ -10,4 +10,8 @@ $pkg update && pkg upgrade
 
 $pkg install python 
 
-$p
+$pip install requests 
+
+$cd AntoAI
+
+$python Ai.py
