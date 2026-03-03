@@ -24,4 +24,6 @@ $cd AntoAI
 
 $pip install requests 
 
+$pip install python-dotenv
+
 $python Ai.py
